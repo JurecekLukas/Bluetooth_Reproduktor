@@ -9,6 +9,33 @@ Co to má umět - měl by přehrávat hudbu z jiného zařízení pomocí blueto
 
 
 Nejspíš tyto odkazy---https://hackaday.io/project/168354-esp32-based-internet-radio-and-bluetooth-speaker/details
+
+
+
+
+
+https://docs.google.com/spreadsheets/d/1FWioxnjcoH0sdo3q8OV2s2G3TmypAP_5tfdtsYCqVy4/edit?usp=sharing
+    ^
+    |
+    |
+    |
+odkaz na tabulku s hodnocením
+
+
+
+
+1.Období
+
+1.najít projekt :::: splněno
+2.najít díly    :::: splněno
+3.objednat díly :::: splněno
+4.díly došly    :::: téměř  (není baterka, pájka)
+5.složit to     :::: 
+6.vymyslet jak bude krabička vypadat  :::
+7.začít ji vyrábět :::
+
+
+
                    
         
    esp32 board---https://www.aliexpress.com/item/32883116057.html?spm=a2g0o.productlist.0.0.3f501d52vlKfjC&algo_pvid=8f68e6c0-ee27-4174-92de-75ee68a3a257&algo_expid=8f68e6c0-ee27-4174-92de-75ee68a3a257-2&btsid=0ab50f4415917851853006900e4780&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
@@ -47,6 +74,7 @@ Nejspíš tyto odkazy---https://hackaday.io/project/168354-esp32-based-internet-
    
    
    samotný reproduktor---https://www.aliexpress.com/item/32920881238.html?spm=a2g0o.productlist.0.0.47b112edj9hlcX&algo_pvid=ec583812-da64-42d9-a713-b2f173e9a955&algo_expid=ec583812-da64-42d9-a713-b2f173e9a955-3&btsid=0ab50f4915917864512538373e4722&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+   
             
             
             
