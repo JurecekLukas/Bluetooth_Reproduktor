@@ -27,11 +27,17 @@ odkaz na tabulku s hodnocením
 1.Období
 
 1.najít projekt :::: splněno
+
 2.najít díly    :::: splněno
+
 3.objednat díly :::: splněno
+
 4.díly došly    :::: téměř  (není baterka, pájka)
+
 5.složit to     :::: 
+
 6.vymyslet jak bude krabička vypadat  :::
+
 7.začít ji vyrábět :::
 
 
