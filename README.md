@@ -15,16 +15,22 @@ Nejspíš tyto odkazy---https://hackaday.io/project/168354-esp32-based-internet-
 
 
 https://docs.google.com/spreadsheets/d/1FWioxnjcoH0sdo3q8OV2s2G3TmypAP_5tfdtsYCqVy4/edit?usp=sharing
+
     ^
+    
     |
+    
     |
+    
     |
+    
 odkaz na tabulku s hodnocením
 
 
 
 
 1.Období
+
 
 
 1.najít projekt :::: splněno
@@ -42,7 +48,11 @@ odkaz na tabulku s hodnocením
 7.začít ji vyrábět :::
 
 
+
+
 2.Období
+
+
 
 
 1.nainstalovat platformio :::
