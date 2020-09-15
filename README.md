@@ -47,6 +47,8 @@ odkaz na tabulku s hodnocením
 
 7.začít ji vyrábět :::
 
+8.udělat schéma :::
+
 
 
 
