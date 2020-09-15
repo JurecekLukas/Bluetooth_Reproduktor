@@ -26,6 +26,7 @@ odkaz na tabulku s hodnocením
 
 1.Období
 
+
 1.najít projekt :::: splněno
 
 2.najít díly    :::: splněno
@@ -39,6 +40,14 @@ odkaz na tabulku s hodnocením
 6.vymyslet jak bude krabička vypadat  :::
 
 7.začít ji vyrábět :::
+
+
+2.Období
+
+
+1.nainstalovat platformio :::
+
+2.zjistit jak vložit kód do esp :::
 
 
 
