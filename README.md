@@ -98,11 +98,17 @@ odkaz na tabulku s hodnocením
    
    
    
-   baterka----https://www.aliexpress.com/item/4000532597447.html?spm=a2g0o.productlist.0.0.6d846613X61Lmc&algo_pvid=fc91dee5-2a94-4ebc-9cb0-2001c7dd9f10&algo_expid=fc91dee5-2a94-4ebc-9cb0-2001c7dd9f10-9&btsid=0ab6f82215917862828227534e68c5&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+   baterka----https://www.tipa.eu/cz/baterie-nabijeci-li-ion-18650-37v-2900mah-3c-motoma/d-209550/
+   držák------https://www.tipa.eu/cz/pouzdro-baterie-clanku-18650-do-plosneho-spoje/d-199531/
    
    
    
    samotný reproduktor---https://www.aliexpress.com/item/32920881238.html?spm=a2g0o.productlist.0.0.47b112edj9hlcX&algo_pvid=ec583812-da64-42d9-a713-b2f173e9a955&algo_expid=ec583812-da64-42d9-a713-b2f173e9a955-3&btsid=0ab50f4915917864512538373e4722&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+   
+   
+   
+   
+   odpor----https://www.tipa.eu/cz/rezistor-100r-tr212-0125w/d-89863/
    
             
             
