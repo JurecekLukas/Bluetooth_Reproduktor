@@ -39,7 +39,9 @@ odkaz na tabulku s hodnocením
 
 3.objednat díly :::: splněno
 
-4.díly došly    :::: téměř  (není baterka, pájka)
+4.díly došly    :::: téměř  (není odpor a baterka)
+
+4.5 problém se součástkou ::: 
 
 5.složit to     :::: 
 
