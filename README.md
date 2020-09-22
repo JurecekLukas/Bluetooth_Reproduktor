@@ -39,15 +39,17 @@ odkaz na tabulku s hodnocením
 
 3.objednat díly :::: splněno
 
-4.díly došly    :::: téměř  (není odpor a baterka)
+4.díly došly    :::: splněno
 
 4.5 problém se součástkou ::: 
 
 5.složit to     :::: 
 
-6.vymyslet jak bude krabička vypadat  :::
+6.vymyslet jak bude krabička vypadat  ::: splněno
 
-7.začít ji vyrábět :::
+7.začít ji vyrábět ::: splněno
+
+7.5 dodělat krabičku :::
 
 8.udělat schéma :::
 
