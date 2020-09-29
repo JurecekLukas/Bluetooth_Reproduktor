@@ -41,7 +41,9 @@ odkaz na tabulku s hodnocením
 
 4.díly došly    :::: splněno
 
-4.5 problém se součástkou ::: 
+4.5 problém se součástkou 1.0 (přesunutí a výměna zapínacího tlačítka) 27.9 ::: splněno 
+
+4.8 problém se součástkou 2.0 (změna napětí
 
 5.složit to     :::: 
 
