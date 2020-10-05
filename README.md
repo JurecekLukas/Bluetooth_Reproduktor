@@ -45,7 +45,7 @@ odkaz na tabulku s hodnocením
 
 4.8 problém se součástkou 2.0 (změna napětí
 
-5.složit to     :::: 
+5.složit to     :::: splněno   4.10
 
 6.vymyslet jak bude krabička vypadat  ::: splněno
 
