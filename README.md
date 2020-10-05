@@ -43,9 +43,9 @@ odkaz na tabulku s hodnocením
 
 4.5 problém se součástkou 1.0 (přesunutí a výměna zapínacího tlačítka) 27.9 ::: splněno 
 
-4.8 problém se součástkou 2.0 (změna napětí
+4.8 problém se součástkou 2.0 (změna napětí) ::: splněno
 
-5.složit to     :::: 
+5.složit to     :::: splněno   4.10
 
 6.vymyslet jak bude krabička vypadat  ::: splněno
 
@@ -63,9 +63,15 @@ odkaz na tabulku s hodnocením
 
 
 
-1.nainstalovat platformio :::
+1.nainstalovat platformio ::: splněno
 
 2.zjistit jak vložit kód do esp :::
+
+3.rozblikat LED :::
+
+3.1 hoří mi ESP :::
+
+3.2 Neumí to najít port :::
 
 
 
