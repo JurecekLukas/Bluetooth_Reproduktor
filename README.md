@@ -9,6 +9,8 @@ Co to má umět - měl by přehrávat hudbu z jiného zařízení pomocí blueto
 
 
 Nejspíš tyto odkazy---https://hackaday.io/project/168354-esp32-based-internet-radio-and-bluetooth-speaker/details
+                  první provedení - indoš ----https://www.youtube.com/watch?v=Q-f93TD4EbY
+                                  - němec ----https://www.youtube.com/watch?v=4a10Tl5eR30  
 
 
 
