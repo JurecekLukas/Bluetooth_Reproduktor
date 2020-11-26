@@ -3,14 +3,14 @@
 #include "Audio.h"
  
 // Digital I/O used
-#define I2S_DOUT      25  // DIN connection
-#define I2S_BCLK      27  // Bit clock
-#define I2S_LRC       26  // Left Right Clock
+#define I2S_DOUT      22  // DIN connection
+#define I2S_BCLK      26  // Bit clock
+#define I2S_LRC       25  // Left Right Clock
  
-Audio audio;
+Audio (audio);
  
 String ssid =     "Insanenet";
-String password = "insane68";
+String password =  "XXXXXXX";
  
 void setup() {
     Serial.begin(115200);
@@ -25,7 +25,7 @@ void setup() {
 //    audio.connecttohost("http://macslons-irish-pub-radio.com/media.asx");
 //    audio.connecttohost("http://mp3.ffh.de/radioffh/hqlivestream.aac"); //  128k aac
 //     audio.connecttohost("http://mp3.ffh.de/radioffh/hqlivestream.mp3"); //  128k mp3
-      audio.connecttohost("http://vis.media-ice.musicradio.com/CapitalMP3"); //  128k mp3
+     audio.connecttohost("http://vis.media-ice.musicradio.com/CapitalMP3"); //  128k mp3
 //    audio.connecttospeech("Wenn die Hunde schlafen, kann der Wolf gut Schafe stehlen.", "de");
 //    audio.connecttohost("http://media.ndr.de/download/podcasts/podcast4161/AU-20190404-0844-1700.mp3");
 // podcast
