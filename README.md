@@ -1,21 +1,25 @@
-# Bluetooth_Reproduktor
+# Wifi rádio
 Projekt 
 
-Co to má umět - měl by přehrávat hudbu z jiného zařízení pomocí bluetooth,možná aux, možná s wifi modulem a ovladačem.
-              - nabíjení 
-              - signalizační ledky (nabíjení,zapnuto,popřípadě další), tlačítka(zapnutí,zeslabit,zesílit hudbu)
-              - bude to nejspíš v dřevěnné doma vyrobeném obalu
+Co to má umět - připojit se na internetový stream a přehrávat hudbu
+              - Mít externí napájení + nabíjení
+              - Stereo zvuk
+              - Display na výpis aktuální písničky
+              - Otáčecí enkodér na změnu zvuku 
+              - popřípadě přepínání na BT Speaker
 
 
 
-Nejspíš tyto odkazy---https://hackaday.io/project/168354-esp32-based-internet-radio-and-bluetooth-speaker/details
+Nejspíš tyto odkazy BT---https://hackaday.io/project/168354-esp32-based-internet-radio-and-bluetooth-speaker/details
                   první provedení - indoš ----https://www.youtube.com/watch?v=Q-f93TD4EbY
-                                  - němec ----https://www.youtube.com/watch?v=4a10Tl5eR30  
+                                  -  
                                   
                  esp/mobil ----- https://www.youtube.com/watch?v=RStncO3zb8g
 
 
-
+Použití na Wifi rádio - https://www.youtube.com/watch?v=3ao87AgZ7Bc
+                      - https://create.arduino.cc/projecthub/vandenbrande/arduino-rotary-encoder-simple-example-ky-040-b78752
+                      - https://cdn-learn.adafruit.com/downloads/pdf/adafruit-i2s-stereo-decoder-uda1334a.pdf
 
 
 https://docs.google.com/spreadsheets/d/1FWioxnjcoH0sdo3q8OV2s2G3TmypAP_5tfdtsYCqVy4/edit?usp=sharing
@@ -33,53 +37,15 @@ odkaz na tabulku s hodnocením
 
 
 
-1.Období
+
+jiný dac --- https://arduino-shop.cz/arduino/34412-i2s-pcm5102a-dac-audio-prevodnik.html?gclid=EAIaIQobChMIyKv9mqug7QIVWunmCh0otgolEAQYASABEgKXWfD_BwE
+
+Stereo zesilovač -- https://www.laskarduino.cz/2x3w-digitalni-audio-zesilovac-pam8403/
+
+display -- https://www.laskarduino.cz/16x2-lcd-displej-1602-zeleny-i2c-prevodnik/
 
 
 
-1.najít projekt :::: splněno
-
-2.najít díly    :::: splněno
-
-3.objednat díly :::: splněno
-
-4.díly došly    :::: splněno
-
-4.5 problém se součástkou 1.0 (přesunutí a výměna zapínacího tlačítka) 27.9 ::: splněno 
-
-4.8 problém se součástkou 2.0 (změna napětí) ::: splněno
-
-5.složit to     :::: splněno   4.10
-
-6.vymyslet jak bude krabička vypadat  ::: splněno
-
-7.začít ji vyrábět ::: splněno
-
-7.5 dodělat krabičku :::
-
-8.udělat schéma :::
-
-
-
-
-2.Období
-
-
-
-
-1.nainstalovat platformio ::: splněno
-
-2.zjistit jak vložit kód do esp :::
-
-3.rozblikat LED :::
-
-3.1 hoří mi ESP :::
-
-3.2 Neumí to najít port :::
-
-
-
-                   
         
    esp32 board---https://www.aliexpress.com/item/32883116057.html?spm=a2g0o.productlist.0.0.3f501d52vlKfjC&algo_pvid=8f68e6c0-ee27-4174-92de-75ee68a3a257&algo_expid=8f68e6c0-ee27-4174-92de-75ee68a3a257-2&btsid=0ab50f4415917851853006900e4780&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
    
