@@ -24,8 +24,10 @@ void setup() {
 //    audio.connecttohost("http://www.wdr.de/wdrlive/media/einslive.m3u");
 //    audio.connecttohost("http://macslons-irish-pub-radio.com/media.asx");
 //    audio.connecttohost("http://mp3.ffh.de/radioffh/hqlivestream.aac"); //  128k aac
-//     audio.connecttohost("http://mp3.ffh.de/radioffh/hqlivestream.mp3"); //  128k mp3
-     audio.connecttohost("http://vis.media-ice.musicradio.com/CapitalMP3"); //  128k mp3
+//    audio.connecttohost("http://mp3.ffh.de/radioffh/hqlivestream.mp3"); //  128k mp3
+//    audio.connecttohost("http://vis.media-ice.musicradio.com/CapitalMP3"); //  128k mp3
+//    audio.connecttohost("https://ice.abradio.cz/orion128.mp3"); //Hitrádio orion
+      audio.connecttohost("http://21283.live.streamtheworld.com/EVROPA2.mp3"); //EVROPA2
 //    audio.connecttospeech("Wenn die Hunde schlafen, kann der Wolf gut Schafe stehlen.", "de");
 //    audio.connecttohost("http://media.ndr.de/download/podcasts/podcast4161/AU-20190404-0844-1700.mp3");
 // podcast
