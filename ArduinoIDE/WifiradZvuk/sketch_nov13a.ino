@@ -20,7 +20,7 @@ Audio audio;
 String ssid =     "Insanenet";
 String password = "insane68";
 
-int zvuk(){
+void zvuk(){
   pom = digitalRead(CLK);
      if (pom != rotace){ //pomocí pinu DT zjišťujeme otočení
        if (digitalRead(DT) != pom) {  
@@ -36,37 +36,37 @@ int zvuk(){
        if (ZlevaDoprava){ // otáčení doprava
         if (hlasitost >20){ //pokud hlasitost bude vyšší než 20 nastavíme na 21 (MAX)
           hlasitost =21;
-          Serial.println ("Vase hlasitost je na urovni = ");
-          Serial.println (hlasitost);
-          Serial.println ("   Maximum");
-          return hlasitost;
+          //Serial.println ("Vase hlasitost je na urovni = ");
+          //Serial.println (hlasitost);
+          //Serial.println ("   Maximum");
+         // return hlasitost;
          }
          else{ //pokud nebude ještě na hodnotě 20 přičítáme o 1
           hlasitost++;
-          Serial.println ("Vase hlasitost je na urovni = ");
-          Serial.println (hlasitost);
-          return hlasitost;
+          //Serial.println ("Vase hlasitost je na urovni = ");
+          //Serial.println (hlasitost);
+          //return hlasitost;
          }     
          
   
        }else{        // otáčení doleva 
         if (hlasitost <1){ //pokud hlasitost bude nižší než 1 nastavíme na 0 (MIN)
           hlasitost =0;
-          Serial.println ("Vase hlasitost je na urovni = ");
-          Serial.println (hlasitost);
-          Serial.println ("   Minimum");
-          return hlasitost;
+          //Serial.println ("Vase hlasitost je na urovni = ");
+          //Serial.println (hlasitost);
+          //Serial.println ("   Minimum");
+          //return hlasitost;
          }
          else{//pokud nebude ještě na hodnotě 0 odečítáme o 1
           hlasitost--;
-          Serial.println ("Vase hlasitost je na urovni = ");
-          Serial.println (hlasitost);
-          return hlasitost;
+          //Serial.println ("Vase hlasitost je na urovni = ");
+          //Serial.println (hlasitost);
+         // return hlasitost;
          } 
        }
        //Výpis pozice encodéru
-       Serial.print("Pozice encoderu: ");
-       Serial.println(pozice);
+       //Serial.print("Pozice encoderu: ");
+       //Serial.println(pozice);
        
      } 
    rotace = pom;
@@ -82,7 +82,7 @@ void setup() {
     WiFi.begin(ssid.c_str(), password.c_str());
     while (WiFi.status() != WL_CONNECTED) delay(1500);
     audio.setPinout(I2S_BCLK, I2S_LRC, I2S_DOUT);
-    audio.setVolume(zvuk()); // 0...21
+ //   audio.setVolume(hlasitost); // 0...21
  
 //    audio.connecttohost("http://www.wdr.de/wdrlive/media/einslive.m3u");
 //    audio.connecttohost("http://macslons-irish-pub-radio.com/media.asx");
@@ -97,6 +97,8 @@ void setup() {
 void loop()
 {
     audio.loop();
+    zvuk();
+    audio.setVolume(hlasitost);
 }
  
 // optional
