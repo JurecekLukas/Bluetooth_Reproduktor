@@ -39,7 +39,7 @@ String sliderValue = "0";
 int posuvnik = 0;
 int pomHlasitost = 0;
 int pomPosuvnik = 0;
-int pom3 = 0;
+int vyslednaHlasitost = 0;
 // setting PWM properties
 const int freq = 5000;
 const int ledChannel = 0;
@@ -139,13 +139,11 @@ void zvuk2(){
   pomHlasitost = hlasitost;
   pomPosuvnik = posuvnik;
   if(pomPosuvnik != 0){
-    pom3=posuvnik;
-    Serial.println(pom3);
+    vyslednaHlasitost=posuvnik;
     pomHlasitost = 0;
   }
   else if(pomHlasitost != 0){
-    pom3=hlasitost;
-    Serial.println(pom3);
+    vyslednaHlasitost=hlasitost;
     pomPosuvnik = 0; 
   }
 }
@@ -422,7 +420,7 @@ void loop()
    }
    zvuk();
    zvuk2();
-   audio.setVolume(pom3);
+   audio.setVolume(vyslednaHlasitost);
 }
  
 // optional
