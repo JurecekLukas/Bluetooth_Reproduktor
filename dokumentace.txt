@@ -1,4 +1,0 @@
-Úprava schéma z důvodu jiných konvertorů napětí
-řešení problému s tlačítkem s LED (přišlo z číny a nefungovalo -- použit normální přepínač 0/1)
-4.10 - dopájení dílu - každá součástka by se měla dát samostatně připojit a odpojit
-5.10 - hoří mi ESP ---- neumí to najít port     
